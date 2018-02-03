@@ -24,7 +24,7 @@ function findBy(array, findFn) {
   //let valueIs = findFn();
   for (let k = 0; k < array.length; k++) {
     //let valueIs = findFn(array[k])
-    if (findFn9array[k])) {
+    if (findFn(array[k])) {
       return array[k];
     }
   }
