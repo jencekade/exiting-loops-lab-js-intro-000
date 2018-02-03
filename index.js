@@ -31,5 +31,5 @@ function findBy(array, findFn) {
   /*if (!array.includes(valueIs)) {
     return null;
   }*/
-  //return null;
+  return null;
 }
