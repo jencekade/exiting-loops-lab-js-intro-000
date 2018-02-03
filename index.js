@@ -28,8 +28,5 @@ function findBy(array, findFn) {
       return array[k];
     }
   }
-  /*if (!array.includes(valueIs)) {
-    return null;
-  }*/
   return null;
 }
